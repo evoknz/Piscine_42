@@ -1,0 +1,5 @@
+Credentials cache: API:4480
+        Principal: aperrien@42NICE.FR
+
+  Issued                Expires               Principal
+May 31 16:20:13 2021  Jun  1 02:20:07 2021  krbtgt/42NICE.FR@42NICE.FR
